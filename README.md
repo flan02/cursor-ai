@@ -7,6 +7,7 @@ Fundamentals of Cursor AI
 - alias cursor="/c/Users/Usuario/AppData/Local/Programs/cursor/Cursor.exe" "$@" > /dev/null 2>&1
 - cursor . > /dev/null 2>&1 &
 
-# Up-to-date documentation for LLMs and Code AI editors
 
+## Context7
+Up-to-date documentation for LLMs and Code AI editors
 [website](https://context7.com/)
